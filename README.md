@@ -25,3 +25,5 @@ we look forward to adding one more feature like an alarm clock which you can set
 - the mobile app sends instructions via Bluetooth from your phone to the Bluetooth associated with Arduino `hc-05`, once they are successfully connected the application sends the current time to be displayed on the segments, some of the other instructions are like selected time for timer and timer1 and 0 for starting and pausing the timer besides controlling the stopwatch.
 - we have used an 8-bit shift register to reduce the number of Arduino pins.
 - A buzzer is used to notify the user that the timer has reached the selected time, once the future feature is added it will also be used for the alarm clock.
+
+### You can find the code for app here https://github.com/Abduallh-Abdo/watchapp
